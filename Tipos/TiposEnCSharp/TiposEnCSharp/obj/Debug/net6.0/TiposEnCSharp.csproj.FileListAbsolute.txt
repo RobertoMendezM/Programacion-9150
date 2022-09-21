@@ -1,0 +1,15 @@
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\bin\Debug\net6.0\TiposEnCSharp.exe
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\bin\Debug\net6.0\TiposEnCSharp.deps.json
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\bin\Debug\net6.0\TiposEnCSharp.runtimeconfig.json
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\bin\Debug\net6.0\TiposEnCSharp.dll
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\bin\Debug\net6.0\TiposEnCSharp.pdb
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\obj\Debug\net6.0\TiposEnCSharp.csproj.AssemblyReference.cache
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\obj\Debug\net6.0\TiposEnCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\obj\Debug\net6.0\TiposEnCSharp.AssemblyInfoInputs.cache
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\obj\Debug\net6.0\TiposEnCSharp.AssemblyInfo.cs
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\obj\Debug\net6.0\TiposEnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\obj\Debug\net6.0\TiposEnCSharp.dll
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\obj\Debug\net6.0\refint\TiposEnCSharp.dll
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\obj\Debug\net6.0\TiposEnCSharp.pdb
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\obj\Debug\net6.0\TiposEnCSharp.genruntimeconfig.cache
+C:\Users\rober\YandexDisk\Programacion\C#\TiposEnCSharp\TiposEnCSharp\obj\Debug\net6.0\ref\TiposEnCSharp.dll
